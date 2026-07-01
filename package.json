@@ -1,0 +1,28 @@
+{
+  "name": "@ntari/mycelium",
+  "version": "0.3.0",
+  "description": "The per-operator, witnessed, append-only record layer for Janus-Facing Architecture networks. Spec + JS reference implementation.",
+  "main": "mycelium.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "keywords": [
+    "mycelium",
+    "janus-facing-architecture",
+    "append-only",
+    "tamper-evident",
+    "certificate-transparency",
+    "mutual-credit",
+    "ntari"
+  ],
+  "author": "Network Theory Applied Research Institute",
+  "license": "AGPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NTARI-RAND/Mycelium.git"
+  },
+  "homepage": "https://github.com/NTARI-RAND/Mycelium#readme",
+  "engines": {
+    "node": ">=16"
+  }
+}
